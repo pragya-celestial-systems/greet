@@ -1,10 +1,11 @@
 {
   "name": "greet",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "greet.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node greet.js"
   },
   "keywords": [
     "greet",
@@ -12,5 +13,13 @@
   ],
   "author": "Pragya Saxena",
   "license": "ISC",
-  "description": ""
+  "description": "Log greeting message on the console along with the user's name.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragya-celestial-systems/greet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pragya-celestial-systems/greet/issues"
+  },
+  "homepage": "https://github.com/pragya-celestial-systems/greet#readme"
 }
