@@ -1,0 +1,16 @@
+{
+  "name": "greet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greet",
+    "welcome"
+  ],
+  "author": "Pragya Saxena",
+  "license": "ISC",
+  "description": ""
+}
