@@ -1,5 +1,5 @@
 {
-  "name": "greet-user",
+  "name": "greet-user-with-name",
   "version": "1.0.0",
   "main": "greet.js",
   "type": "module",
