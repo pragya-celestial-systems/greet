@@ -1,6 +1,6 @@
 {
   "name": "greet-user-with-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "greet.js",
   "type": "module",
   "scripts": {
